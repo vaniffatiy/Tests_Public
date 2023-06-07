@@ -22,7 +22,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am Svyatoslav, a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :mechanic: I’m working as a QA automation engineer and contributing to frontend :national_park: and backend :building_construction: testing.
 
